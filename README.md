@@ -15,4 +15,4 @@ A Python application for managing ice cream flavors, ingredient inventory, and c
    python database/setup_db.py
    
 ##Run the main application
-    python app.py
+      python app.py
